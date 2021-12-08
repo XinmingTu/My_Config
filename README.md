@@ -15,3 +15,10 @@ All configuration I used
 ## Zsh
 
 * Follow the guideline of [Oh-my-zsh](https://github.com/ohmyzsh/ohmyzsh)
+
+
+## VS code
+
+* VScode icons
+* Remote - SSH
+* Git Graph
