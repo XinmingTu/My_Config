@@ -22,3 +22,7 @@ All configuration I used
 * VScode icons
 * Remote - SSH
 * Git Graph
+* Prettier - code formatter
+* Python Docsstring Generator
+* ShellCheck
+* Visual Studio IntelliCode
